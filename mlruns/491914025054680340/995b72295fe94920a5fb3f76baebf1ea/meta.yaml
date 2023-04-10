@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lentraadmin/Desktop/Demo_2/mlruns/491914025054680340/995b72295fe94920a5fb3f76baebf1ea/artifacts
+end_time: 1681127387945
+entry_point_name: ''
+experiment_id: '491914025054680340'
+lifecycle_stage: active
+run_id: 995b72295fe94920a5fb3f76baebf1ea
+run_name: thoughtful-trout-997
+run_uuid: 995b72295fe94920a5fb3f76baebf1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681126339443
+status: 3
+tags: []
+user_id: lentraadmin

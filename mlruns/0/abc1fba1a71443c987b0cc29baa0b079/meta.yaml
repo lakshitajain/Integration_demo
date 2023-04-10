@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lentraadmin/Desktop/Demo_2/mlruns/0/abc1fba1a71443c987b0cc29baa0b079/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abc1fba1a71443c987b0cc29baa0b079
+run_name: wistful-trout-863
+run_uuid: abc1fba1a71443c987b0cc29baa0b079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680858900331
+status: 1
+tags: []
+user_id: lentraadmin
