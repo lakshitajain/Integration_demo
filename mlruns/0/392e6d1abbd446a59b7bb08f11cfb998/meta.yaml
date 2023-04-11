@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lentraadmin/Desktop/Demo_2/mlruns/0/392e6d1abbd446a59b7bb08f11cfb998/artifacts
+end_time: 1681207328842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 392e6d1abbd446a59b7bb08f11cfb998
+run_name: thoughtful-shrike-35
+run_uuid: 392e6d1abbd446a59b7bb08f11cfb998
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681207323573
+status: 3
+tags: []
+user_id: lentraadmin

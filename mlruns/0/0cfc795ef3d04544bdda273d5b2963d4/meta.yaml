@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lentraadmin/Desktop/Demo_2/mlruns/0/0cfc795ef3d04544bdda273d5b2963d4/artifacts
+end_time: 1681207347903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0cfc795ef3d04544bdda273d5b2963d4
+run_name: polite-goose-171
+run_uuid: 0cfc795ef3d04544bdda273d5b2963d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681207343870
+status: 3
+tags: []
+user_id: lentraadmin

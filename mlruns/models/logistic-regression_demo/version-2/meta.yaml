@@ -1,0 +1,12 @@
+creation_timestamp: 1681207347895
+current_stage: None
+description: null
+last_updated_timestamp: 1681207347895
+name: logistic-regression_demo
+run_id: 0cfc795ef3d04544bdda273d5b2963d4
+run_link: null
+source: file:///home/lentraadmin/Desktop/Demo_2/mlruns/0/0cfc795ef3d04544bdda273d5b2963d4/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 2
