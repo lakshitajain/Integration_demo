@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lentraadmin/Desktop/Demo_2/mlruns/0/6e72a4fe2d974239b7d6ef7026d017e2/artifacts
+end_time: 1681282536455
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e72a4fe2d974239b7d6ef7026d017e2
+run_name: resilient-shrimp-872
+run_uuid: 6e72a4fe2d974239b7d6ef7026d017e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681282532418
+status: 3
+tags: []
+user_id: lentraadmin
